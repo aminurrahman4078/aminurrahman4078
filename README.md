@@ -30,12 +30,15 @@
 
 ## 📢 Connect With Me
 <p align="center">
-  <a href="mailto:aminurrahman9793@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/aminurrahman4078"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://web.facebook.com/aminur.rahman4078"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://x.com/Aminur4078"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="tel:+8801327694078"><img src="https://img.shields.io/badge/Phone-%230077B5.svg?style=plastic&logo=phone&logoColor=white" alt="WhatsApp"/></a>
+	<a href="mailto:aminurrahman9793@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/aminurrahman4078"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://web.facebook.com/aminur.rahman4078"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://x.com/Aminur4078"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+	<a href="https://www.instagram.com/aminur.rahman_4078/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://t.me/aminur4078"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+	<a href="https://wa.me/8801327694078"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
