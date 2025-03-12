@@ -1,67 +1,52 @@
-## Hi, I'm Aminur Rahman! 👋
+<h1 align="center">Hi , I'm Aminur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Designer;Web+Developer;Front-End+Specialist;Always+learning+new+technologies&center=true&width=500&height=50"></a>
+</p>
 
-### 💻 Web Designer & Developer
+<br>
 
-🌍 From Ratneshwarpur, Kaliganj, Satkhira, Bangladesh  
-🎓 Studying Computer Science & Engineering (CSE)  
-🚀 Passionate about crafting modern, responsive, and user-friendly websites  
-📂 Portfolio: [Your Portfolio Link]  
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=aminurrahman4078&label=Profile%20views&color=0e75b6&style=plastic" alt="Aminur Rahman" />
+</p>
 
----
+## 👨‍💻 About Me
+- 🌍 Based in Ratneshwarpur, Kaliganj, Satkhira, Bangladesh
+- 🎓 Studying Computer Science & Engineering (CSE)
+- 💻 Passionate about Web Design and Development
+- 🚀 Always learning and exploring new technologies
+- 🎯 Open to freelance work, internships, and collaborations
 
-## 🔥 About Me
-- 💻 Specialized in front-end and back-end web development
-- 🎨 Skilled in creating visually appealing and responsive designs
-- 🚀 Always exploring new web technologies and frameworks
-- 💡 Open to freelance work, internships, and collaborations
+## 🚀 Skills & Technologies
 
----
-
-## 🛠 Skills & Technologies
-
-### 🔹 Frontend Development
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: Bootstrap, Tailwind CSS
-- **JS Libraries**: React.js (if applicable)
-
-### 🔹 Backend Development
-- **Languages**: [Add if applicable]
-- **Databases**: [Add if applicable]
-- **CMS**: WordPress
+### 🔹 Programming & Development
+- **Languages:** HTML, CSS, JavaScript
+- **Frontend Frameworks:** Bootstrap, Tailwind CSS
+- **Backend:** [Add if you use any]
+- **Database:** [Add if you use any]
 
 ### 🔹 Tools & Platforms
-- **Version Control**: Git, GitHub
-- **Design Tools**: Photoshop, Illustrator
-- **SEO & Analytics**: Google Analytics, Search Console
-
----
+- **Version Control:** Git, GitHub
+- **CMS & SEO:** WordPress, Google Analytics
 
 ## 📢 Connect With Me
-
-📩 **Email**: [aminurrahman9793@gmail.com](mailto:aminurrahman9793@gmail.com)  
-🌐 **Portfolio**: [Your Portfolio Link]  
-🔗 **Social Media**:
-- [Facebook](https://web.facebook.com/aminur.rahman4078)
-- [X (Twitter)](https://x.com/Aminur4078)
-- [Instagram](https://www.instagram.com/aminur.rahman_4078/)
-- [Telegram](https://t.me/aminur4078)
-- **WhatsApp**: [+880 1327-694078](https://wa.me/8801327694078)
-
----
+<p align="center">
+  <a href="mailto:aminurrahman9793@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/aminurrahman4078"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://web.facebook.com/aminur.rahman4078"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://x.com/Aminur4078"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="tel:+8801327694078"><img src="https://img.shields.io/badge/Phone-%230077B5.svg?style=plastic&logo=phone&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AminurRahman&theme=algolia" alt="GitHub Streak"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aminur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aminurrahman4078&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminurrahman4078&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Aminur Rahman" height="192px"/>
+  <br/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminurRahman&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AminurRahman&langs_count=10&layout=compact&theme=algolia" alt="Top Languages"/>
-</p>
+## 🏆 GitHub Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminurrahman4078&layout=compact&theme=algolia" alt="Aminur Rahman" /></a> </p>
 
 ---
-
-📌 *Let's build something amazing together!* 🚀
+📌 Last Updated: [Date]
